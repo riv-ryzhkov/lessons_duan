@@ -1,0 +1,9 @@
+dog
+english
+friend
+animal
+computer
+book
+class
+homework
+holidays
